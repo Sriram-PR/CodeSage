@@ -1,0 +1,24 @@
+python:
+  code_block_start: "```python"
+  code_block_end: "```"
+  comment_marker: "#"
+
+javascript:
+  code_block_start: "```javascript"
+  code_block_end: "```"
+  comment_marker: "//"
+
+java:
+  code_block_start: "```java"
+  code_block_end: "```"
+  comment_marker: "//"
+
+c:
+   code_block_start: "```c"
+   code_block_end: "```"
+   comment_marker: "//"
+
+cpp:
+    code_block_start: "```cpp"
+    code_block_end: "```"
+    comment_marker: "//"
