@@ -94,3 +94,5 @@ Backend API → http://localhost:8000
 Contributions are welcome! If you'd like to fix a bug, suggest a feature, or contribute improvements, please open an issue or submit a pull request.
 
 ---
+
+Made by [Avinash V](https://github.com/avinashv4/), [Sriram PR](https://github.com/Sriram-PR), and Harshita Balaji
